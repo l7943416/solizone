@@ -1,7 +1,6 @@
 [
   "obsidian-import-json",
   "periodic-notes",
-  "quickadd",
   "calendar",
   "obsidian-kanban",
   "tag-wrangler",
@@ -9,5 +8,8 @@
   "obsidian-day-planner",
   "obsidian-timelines",
   "obsidian-checklist-plugin",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "note-refactor-obsidian",
+  "nldates-obsidian",
+  "obsidian-rollover-daily-todos"
 ]

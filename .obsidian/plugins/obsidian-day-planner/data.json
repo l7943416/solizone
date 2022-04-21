@@ -1,7 +1,7 @@
 {
   "customFolder": "Day Planners",
   "mode": 0,
-  "mermaid": false,
+  "mermaid": true,
   "notesToDates": [
     {
       "notePath": "SENARAI EJEN KUPON MPSJ 2017.md",
@@ -9,8 +9,8 @@
     }
   ],
   "completePastItems": true,
-  "circularProgress": false,
-  "nowAndNextInStatusBar": false,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
   "showTaskNotification": true,
   "timelineZoomLevel": 4
 }
