@@ -1,0 +1,34 @@
+{
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "T"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "D"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "Q"
+    }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "N"
+    }
+  ]
+}
