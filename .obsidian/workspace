@@ -7,11 +7,9 @@
         "id": "2aa335e2ae4c1ce2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "list/202204221533.md",
-            "mode": "source",
-            "source": false
+            "file": "看板.md"
           }
         }
       }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "list/202204221533.md",
+                "file": "看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +144,8 @@
   },
   "active": "2aa335e2ae4c1ce2",
   "lastOpenFiles": [
-    "list/202204221533.md",
     "看板.md",
+    "list/202204221533.md",
     "list/202204251153.md",
     "list/202204251149.md",
     "日志/2022-04-25.md",
