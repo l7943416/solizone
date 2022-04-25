@@ -7,9 +7,11 @@
         "id": "2aa335e2ae4c1ce2",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "看板.md"
+            "file": "list/202204221533.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "3361646",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "看板.md",
+                "file": "list/202204221533.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,20 +142,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "2aa335e2ae4c1ce2",
   "lastOpenFiles": [
+    "list/202204221533.md",
     "看板.md",
-    "list/202204221729.md",
-    "list/202204221705.md",
-    "list/202204221704.md",
-    "list/202204221500.md",
-    "list/202204221013.md",
-    "list/202204220937.md",
-    "list/202204211739.md",
-    "list/202204220949.md",
-    "list/202204220938.md"
+    "list/202204251153.md",
+    "list/202204251149.md",
+    "日志/2022-04-25.md",
+    "日志/2022-04-22.md",
+    "list/202204251146.md",
+    "test.md",
+    "list/202204251140.md",
+    "list/202204251137.md"
   ]
 }
