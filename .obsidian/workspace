@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2aa335e2ae4c1ce2",
+        "id": "4c898b702c29ae05",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docker.md",
+            "file": "list/202204261721.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "787142",
+                "query": "8588516",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker.md",
+                "file": "list/202204261721.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,19 +142,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "2aa335e2ae4c1ce2",
+  "active": "4c898b702c29ae05",
   "lastOpenFiles": [
-    "docker.md",
-    "list/202204261248.md",
-    "list/202204261246.md",
-    "list/202204261244.md",
-    "list/202204261241.md",
-    "list/202204261238.md",
+    "list/202204261721.md",
+    "list/202204261720.md",
+    "list/202204261716.md",
+    "list/202204261709.md",
+    "list/202204261708.md",
+    "看板.md",
+    "list/202204251527.md",
     "whatapps.md",
-    "list/202204261232.md",
-    "list/202204261231.md",
-    "list/202204261228.md"
+    "list/202204261610.md",
+    "list/202204191642.md"
   ]
 }
