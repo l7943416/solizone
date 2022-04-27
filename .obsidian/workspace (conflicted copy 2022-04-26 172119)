@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "1cec9199c62b1f0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c898b702c29ae05",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "list/202204261721.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cde4dbe72e1ca6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f47bb6c1db9b15c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a047f7d3f70fdd3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "86bf97a38c4ceb1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "8588516",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ba0063da2fd42b7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c80d114eaf3a72c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 183
+  },
+  "right": {
+    "id": "29dcb52937c1d5e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb9423d3aa572e13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc5c31c51bf9ba9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "list/202204261721.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "78395e67bc983131",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84ecde00b3f9d32a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea0a6487a88e6bfc",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1779ddb073c1530d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "921acc1964006fdf",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4c898b702c29ae05",
+  "lastOpenFiles": [
+    "list/202204261721.md",
+    "list/202204261720.md",
+    "list/202204261716.md",
+    "list/202204261709.md",
+    "list/202204261708.md",
+    "看板.md",
+    "list/202204251527.md",
+    "whatapps.md",
+    "list/202204261610.md",
+    "list/202204191642.md"
+  ]
+}

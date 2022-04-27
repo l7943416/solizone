@@ -23,6 +23,14 @@
       "key": "Q"
     }
   ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "N"
+    }
+  ],
   "remotely-save:start-sync": [
     {
       "modifiers": [
@@ -31,14 +39,5 @@
       ],
       "key": "S"
     }
-  ],
-  "zk-prefixer": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
-  "file-explorer:new-file": []
+  ]
 }
