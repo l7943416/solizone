@@ -26,7 +26,7 @@
   "zk-prefixer": [
     {
       "modifiers": [
-        "Meta"
+        "Mod"
       ],
       "key": "N"
     }
@@ -39,5 +39,7 @@
       ],
       "key": "S"
     }
-  ]
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "file-explorer:new-file": []
 }

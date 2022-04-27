@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "list/202204271255.md",
+            "file": "list/202204271807.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "4075922",
+                "query": "2167933",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "list/202204271255.md",
+                "file": "list/202204271807.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,20 +142,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "5ea3613fd6e4d0ba",
   "lastOpenFiles": [
-    "list/202204271255.md",
-    "list/202204271240.md",
-    "list/202204271239.md",
-    "list/202204271226.md",
-    "list/202204271238.md",
-    "list/202204271233.md",
-    "list/202204271232.md",
-    "list/202204271225.md",
-    "list/202204271224.md",
-    "list/202204271221.md"
+    "list/202204271807.md",
+    "list/202204271806.md",
+    "看板.md",
+    "list/202204191642.md",
+    "list/202204261157.md",
+    "模板/顾客资料.md",
+    "list/202204271605.md",
+    "list/202204271604.md",
+    "list/202204271553.md",
+    "list/202204271549.md"
   ]
 }
