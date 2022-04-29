@@ -1,7 +1,7 @@
-https://web.whatsapp.com/send?phone=60162121750&text=Hi!%20I'm%20Ka%20Wee%20of%20Soluzone%20financial%20advisor.%20Our%20company%20has%20close%20working%20relationship%20with%20banks%20in%20Malaysia,%20we%20can%20provide%20you%20with%20professional%20and%20high-quality%20consulting,%20we%20meet%20all%20your%20needs%20by%20having%20first-class asset%20management%20managers,%20ensuring%20you%20Make%20an%20informed%20decision%20when%20it%20comes%20to%20funding.%20我是Soluzone%20financial%20advisor的Ka%20Wee.%20我们公司与马来西亚银行都有紧密的合作关系,%20我们可以为您提供专业和高质量的咨询, %20我们通过拥有一流的资产管理经理来满足您的所有需求, %20确保您在资金方面做出明智的决定.0162121750
+https://web.whatsapp.com/send?phone=60166309342&text=Hi!%20I'm%20Ka%20Wee%20of%20Soluzone%20financial%20advisor.%20Our%20company%20has%20close%20working%20relationship%20with%20banks%20in%20Malaysia,%20we%20can%20provide%20you%20with%20professional%20and%20high-quality%20consulting,%20we%20meet%20all%20your%20needs%20by%20having%20first-class asset%20management%20managers,%20ensuring%20you%20Make%20an%20informed%20decision%20when%20it%20comes%20to%20funding.%20我是Soluzone%20financial%20advisor的Ka%20Wee.%20我们公司与马来西亚银行都有紧密的合作关系,%20我们可以为您提供专业和高质量的咨询, %20我们通过拥有一流的资产管理经理来满足您的所有需求, %20确保您在资金方面做出明智的决定.0166309342
 
 
-
+0166309342
 
 
 https://web.whatsapp.com/send?phone=60103640081&text=Hi!%20I'm%20Ka%20Wee%20of%20Soluzone%20financial%20advisor.
