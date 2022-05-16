@@ -7,11 +7,12 @@
   "obsidian-tasks-plugin",
   "obsidian-day-planner",
   "obsidian-timelines",
+  "obsidian-checklist-plugin",
   "recent-files-obsidian",
   "note-refactor-obsidian",
   "nldates-obsidian",
   "obsidian-rollover-daily-todos",
   "remotely-save",
   "todoist-sync-plugin",
-  "obsidian-plugin-todo"
+  "obsidian-git"
 ]
