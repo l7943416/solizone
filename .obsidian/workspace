@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "list/202205161151.md",
+            "file": "日志/2022-05-16.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "list/202205161151.md",
+                "file": "日志/2022-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,9 +122,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "405457575ac9c009",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "1779ddb073c1530d",
@@ -146,15 +154,15 @@
   },
   "active": "5ea3613fd6e4d0ba",
   "lastOpenFiles": [
+    "日志/2022-05-16.md",
+    "list/202205161155.md",
+    "日志/2022-05-15.md",
+    "docker.md",
+    "未命名 2.md",
     "list/202205161151.md",
     "list/202205161145.md",
     "list/202205161142.md",
-    "日志/2022-05-16.md",
     "list/202205161131.md",
-    "list/202205161130.md",
-    "list/202205161116.md",
-    "list/202205161106.md",
-    "list/未命名 2 1.md",
-    "list/202205161100.md"
+    "list/202205161130.md"
   ]
 }
