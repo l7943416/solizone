@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "list/202205161719.md",
+            "file": "list/202205191755.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "3347258",
+                "query": "2354188",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "list/202205161719.md",
+                "file": "list/202205191755.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +123,9 @@
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "405457575ac9c009",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "1779ddb073c1530d",
@@ -151,19 +143,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 185
+    "width": 189
   },
   "active": "5ea3613fd6e4d0ba",
   "lastOpenFiles": [
-    "list/202205161719.md",
-    "list/202205161712.md",
-    "list/202205161710.md",
-    "list/202205161705.md",
-    "list/202205161704.md",
+    "list/202205191755.md",
     "whatapps.md",
-    "list/202205161641.md",
-    "list/202205161628.md",
-    "list/202205161544.md",
-    "list/202205161541.md"
+    "list/202205191734.md",
+    "list/202205191728.md",
+    "list/202205191726.md",
+    "list/202205191725.md",
+    "list/202205191721.md",
+    "list/202205191712.md",
+    "list/202205191708.md",
+    "list/202205191707.md"
   ]
 }
